@@ -1,0 +1,2 @@
+# entertainmethub
+Entertainment Hub is a web application that allows users to search for movies and TV shows, view details about them, and save them to their watchlist. Users can also view their watchlist and remove items from it. The application uses the TMDb API to fetch movie and TV show data.
